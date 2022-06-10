@@ -28,9 +28,30 @@ body {
     margin-top: 10px;
     font-weight: bold;
     font-size: 20px;
+    text-transform: uppercase;
 }
 
 .section{
     margin-top: 10px;
 }
 
+.left {
+    width: 60%;
+}
+
+.right {
+    width: 39%;
+}
+
+.left ,
+.right {
+  vertical-align: top;
+  display: inline-block;
+}
+
+.school ,
+.job ,
+.project {
+    font-weight: bold;
+    margin-top: 10px;
+}
