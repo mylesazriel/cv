@@ -55,3 +55,7 @@ body {
     font-weight: bold;
     margin-top: 10px;
 }
+
+.duration {
+    font-style: italic;
+}
