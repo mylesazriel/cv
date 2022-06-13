@@ -18,7 +18,7 @@ body {
 }
 
 .name{
-    font-size: 40px;
+    font-size: 45px;
     margin-bottom: 5px;
     text-transform: uppercase;
     color: 	#dd2020;
@@ -32,15 +32,16 @@ body {
 }
 
 .section_title{
-    margin-top: 10px;
+    margin-top: 5px;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 26px;
     text-transform: uppercase;
+    /* color: 	#3032adef; - This is for a nice blue colour*/
     color: 	#dd2020;
 }
 
 .section{
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 .left {
@@ -81,3 +82,4 @@ li{
     margin: 0px;
     margin-bottom: 0px;
   }
+
