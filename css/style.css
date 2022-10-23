@@ -32,7 +32,7 @@ body {
 }
 
 .section_title{
-    margin-top: 5px;
+    margin-bottom: 2px;
     font-weight: bold;
     font-size: 26px;
     text-transform: uppercase;
@@ -56,22 +56,23 @@ body {
 .right {
   vertical-align: top;
   display: inline-block;
+  margin-bottom: 10px;
 }
 
 .school ,
 .job ,
 .project {
     font-weight: bold;
-    margin-top: 10px;
+}
+
+.technical-work {
+    margin-bottom: 20px;
 }
 
 .duration {
     font-style: italic;
 }
 
-.technical_work {
-    margin-top: 10px;
-}
 
 ul {
     margin-top: 0px;
